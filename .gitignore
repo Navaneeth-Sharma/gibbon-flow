@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+build
+flows_and_tasks.yaml
+flow_gibbon.db
+gibbon_flow.egg-info
+flow_gibbon.egg-info
